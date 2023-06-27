@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'nezeku-YT'
+global.botname = 'nezuko-YT'
 global.premium = 'true'
 global.packname = 'MIDNIGHT┃ᴮᴼᵀ' 
 global.author = 'by fouad' 
